@@ -7,3 +7,7 @@ Below are references :
   Vector DB : https://github.com/facebookresearch/faiss
 
   Semantic search: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2  
+
+
+https://github.com/user-attachments/assets/83ddc007-198c-4937-8a49-e499782811b9
+
